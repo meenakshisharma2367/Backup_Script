@@ -1,4 +1,4 @@
 bash
-linux
 scripting
 tutorial meena
+date
